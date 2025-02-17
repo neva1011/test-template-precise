@@ -1,4 +1,4 @@
-# Testversion einer REDME
+# Testversion einer README
 
 ## Hier entsteht ein Template für die echte README für Precise
 
