@@ -2,14 +2,9 @@
 
 ## Hier entsteht ein Template für die echte README für Precise
 
-Introparagraph hier: 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Das Projekt untersucht das Potenzial von 5G für die smarte Düngung in der Landwirtschaft, mit dem Ziel, eine ressourceneffiziente, bedarfsorientierte und teilflächenspezifische Düngerausbringung zu ermöglichen. Dabei werden Sensoren eingesetzt, die Umwelt- und Pflanzendaten sowohl vor als auch während des Düngevorgangs erfassen. Diese Daten werden in Echtzeit an die Edge-Cloud übertragen, die das zentrale Element der 5G-PreCiSe-Umgebung bildet. Hier werden unter Einbeziehung weiterer Datenquellen, wie Satellitenbildern und historischen Daten, sowie durch Simulationsmodelle die optimalen Düngebedarfe für die aktuelle Managementzone berechnet. Die berechneten Informationen werden dann an die Landmaschine zurückgespielt, um die Düngung anzupassen.
 
-1. At vero eos et accusam et justo duo dolores et ea rebum
-2. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-3. lobortis nisl ut aliquip ex ea commodo consequat. 
-
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.   
+Für diesen Echtzeit-Prozess ist 5G als schnelles Kommunikationsmedium notwendig. Die smarte Düngung wird als Beispielanwendung genutzt, um die grundlegenden Konzepte der Vernetzung von Sensoren, Aktoren, Datenquellen, Cloud-Services und Simulationsmodellen in einem Data-Mesh zu entwickeln, die später auf andere landwirtschaftliche Anwendungen angewendet werden können.
 
 ![alt text](image.png)
 
