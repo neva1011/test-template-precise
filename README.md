@@ -1,6 +1,6 @@
-# Testversion einer README
+# 5G-PreCiSe
 
-## Hier entsteht ein Template für die echte README für Precise
+## Projekt
 
 Das Projekt untersucht das Potenzial von 5G für die smarte Düngung in der Landwirtschaft, mit dem Ziel, eine ressourceneffiziente, bedarfsorientierte und teilflächenspezifische Düngerausbringung zu ermöglichen. Dabei werden Sensoren eingesetzt, die Umwelt- und Pflanzendaten sowohl vor als auch während des Düngevorgangs erfassen. Diese Daten werden in Echtzeit an die Edge-Cloud übertragen, die das zentrale Element der 5G-PreCiSe-Umgebung bildet. Hier werden unter Einbeziehung weiterer Datenquellen, wie Satellitenbildern und historischen Daten, sowie durch Simulationsmodelle die optimalen Düngebedarfe für die aktuelle Managementzone berechnet. Die berechneten Informationen werden dann an die Landmaschine zurückgespielt, um die Düngung anzupassen.
 
