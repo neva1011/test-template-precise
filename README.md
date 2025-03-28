@@ -44,7 +44,7 @@ Dieses Repository enthält ein Python-Tool zur Überwachung der Temperatur-Senso
 Mehr Details im [DGX-A100 IPMI Monitoring Repository.](https://github.com/5G-PreCiSe/DGX-A100-IPMI-Monitoring)
 
 # Datenprodukte
-Dieses Repository enthält Datenprodukte für die Analyse und Visualisierung landwirtschaftlicher Daten, darunter NDVI-Clustering und Applikationskarten zur präzisen Düngeverteilung. Ziel ist es, durch datengetriebene Ansätze die Entscheidungsfindung in der Präzisionslandwirtschaft zu unterstützen.
+Dieses Repository enthält Datenprodukte für die Analyse und Visualisierung landwirtschaftlicher Daten, darunter NDVI-Clustering, Umwandlung von multispektral Bildern zu NDVI/LAI Bilddateien und Applikationskarten zur präzisen Düngeverteilung. Ziel ist es, durch datengetriebene Ansätze die Entscheidungsfindung in der Präzisionslandwirtschaft zu unterstützen.
 
 Mehr Details im [Datenprodukte-Repository.](hier Link dann einfügen)
 
